@@ -15,18 +15,18 @@ npm install through2-map
 ```
 
 ## Summary
-|        | LEARN YOU THE NODE.JS FOR MUCH WIN!|             |
-|:------:| ---------------------------------- | :---------: |   
-| **01** | HELLO WORLD                        | [COMPLETED] |  
-| **02** | BABY STEPS                         | [COMPLETED] |  
-| **03** | MY FIRST I/O!                      | [COMPLETED] |  
-| **04** | MY FIRST ASYNC I/O!                | [COMPLETED] |  
-| **05** | FILTERED LS                        | [COMPLETED] |  
-| **06** | MAKE IT MODULAR                    | [COMPLETED] |  
-| **07** | HTTP CLIENT                        | [COMPLETED] |  
-| **08** | HTTP COLLECT                       | [COMPLETED] |  
-| **09** | JUGGLING ASYNC                     | [COMPLETED] |  
-| **10** | TIME SERVER                        | [COMPLETED] |  
-| **11** | HTTP FILE SERVER                   | [COMPLETED] |  
-| **12** | HTTP UPPERCASERER                  | [COMPLETED] |  
-| **13** | HTTP JSON API SERVER               | [COMPLETED] |  
+|        | LEARN YOU THE NODE.JS FOR MUCH WIN!|                                          |
+|:------:| ---------------------------------- | :--------------------------------------: |   
+| **01** | HELLO WORLD                        | **<font color='green'>COMPLETED</font>** |  
+| **02** | BABY STEPS                         | **<font color='green'>COMPLETED</font>** |
+| **03** | MY FIRST I/O!                      | **<font color='green'>COMPLETED</font>** |
+| **04** | MY FIRST ASYNC I/O!                | **<font color='green'>COMPLETED</font>** |
+| **05** | FILTERED LS                        | **<font color='green'>COMPLETED</font>** |
+| **06** | MAKE IT MODULAR                    | **<font color='green'>COMPLETED</font>** |
+| **07** | HTTP CLIENT                        | **<font color='green'>COMPLETED</font>** |
+| **08** | HTTP COLLECT                       | **<font color='green'>COMPLETED</font>** |
+| **09** | JUGGLING ASYNC                     | **<font color='green'>COMPLETED</font>** |
+| **10** | TIME SERVER                        | **<font color='green'>COMPLETED</font>** |
+| **11** | HTTP FILE SERVER                   | **<font color='green'>COMPLETED</font>** |
+| **12** | HTTP UPPERCASERER                  | **<font color='green'>COMPLETED</font>** |
+| **13** | HTTP JSON API SERVER               | **<font color='green'>COMPLETED</font>** |] |  
