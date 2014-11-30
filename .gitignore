@@ -1,0 +1,43 @@
+# NodeJS #
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+pids
+logs
+results
+npm-debug.log
+node_modules
+
+# SublimeText #
+*.sublime-workspace
+
+# VIM #
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Windows #
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX #
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux #
+.*
+!.gitignore
+*~
